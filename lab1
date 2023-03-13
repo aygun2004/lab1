@@ -1,0 +1,287 @@
+1.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Laboratoriya no1.com</title>
+
+</head>
+<head>
+<body>
+    <p> <b>
+  2.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yazılar</title>
+</head>
+<body>
+    <h1>Məlumat</h1>
+
+    <p>
+Azərbaycanda texniki  təhsilin əsası ilk dəfə 1887-ci ilin noyabr ayında Bakı şəhər Duması tərəfindən Bakıda məktəbin yaradılması ilə qoyulub. <br>
+Əvvəlcə bu <strong>məktəbin</strong> Mexanika <strong>şöbəsi</strong> üzrə 50, <em>İnşaat Şöbəsi üzrə </em> 55 
+<u>nəfərdən</u> ibarət <u>buraxılışı</u> olub. 1916-cı ildə məktəbdə artıq 494 <mark>tələbə</mark> təhsil alırdı. <del>Onlardan</del> 
+cəmi 20 nəfəri azərbaycanlı tələbələr olub. 1918-ci ildə verilən qərara əsasən məktəb Politexnikum adlanıb. 188 nəfər tələbəsi olan 
+təhsil ocağında Neft sənayesi, Elektromexanika və İnşaat-memarlıq şöbələri fəaliyyət göstərib. O zaman <abbr title="Azərbaycan">Azərbaycanda</abbr> 
+cəmi 62 nəfər ali təhsildən 12 nəfəri mühəndis olub. <br> <br>
+X<sup>2</sup> + Y<sup>2</sup> = Z<sup>4</sup> <br> <br>
+H<sub>2</sub>SO<sub>4</sub>
+</p>
+</body>
+</html>
+
+3.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cədvəl</title>
+    <style > 
+  h3, #siüüü   {text-align: center;}
+   p, table, th, td, tfoot {
+  border:1px solid black;
+border-collapse:collapse; }
+    </style>
+</head>
+<body>
+    <h3 >
+<strong>Qrup - 642(a1,a2,a3) </strong>
+    </h3>
+    <table style="width:100%">
+        
+   <tr>
+        <th> Adı </th>
+        <th> Soyadı </th>
+        <th> Doğum Tarixi </th>
+        <th> Qrupu </th>
+        </tr>
+        <tr>
+
+<td>Nahid</td>
+<td>Babayev</td>
+<td>02.02.1998 </td>
+<td>642a1</td>
+        </tr>
+        <tr>
+
+            <td>İlqar</td>
+            <td>Həsənov</td>
+            <td>10.12.1999</td>
+            <td>642a3</td>
+        </tr>
+        <tr>
+<td>Yusif</td>
+<td>Hüseynli</td>
+<td>13.03.2005</td>
+<td>642a2</td>
+        </tr>
+        <tr>
+<td>Nigar</td>
+<td>Əlizadə</td>
+<td>05.09.1995</td>
+<td>642a2</td>
+        </tr>
+        <tr>
+<td>Elmira</td>
+<td>Hacızadə</td>
+<td>05.09.1999</td>
+<td>642a3</td>
+        </tr>
+    
+    <tr id="siüüü">
+        
+<td colspan="4"> Veb-Proqlamlaşdırma (Front-End) </td>
+
+
+    </tr>
+    
+    
+    
+    
+    
+    </table>
+   
+</body>
+</html>
+
+4.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listlər</title>
+</head>
+<body>
+    <h1><strong>Listlər</strong></h1>
+
+       <ol type="I">
+        <li>Background Skills</li>
+    <ol type="A">
+        <li>Unix Commands</li>
+        <li>Vim Test Editors</li>
+    </ol> 
+    <li>HTML</li>
+    <ol type="A">
+        <li>Minimal Page</li>
+        <li>Headings</li>
+        <li>Elements</li>
+        <li>List</li>
+        <ol type="i">
+<li>Minimal Page</li>
+<li>Headings</li>
+<li>Elements</li>
+<li>List</li>
+        </ol>
+<li>Links</li>
+           <ol type="i">
+
+            <li>Absolute</li>
+            <li>Relative</li>
+           </ol>
+           <li>Elements</li>
+        </ol>
+        <li>CSS</li>
+<ol type="A">
+<li>Anatomy</li>
+<li>Basic Selection</li>
+<ol type="i">
+    <li>Element</li>
+    <li>Class</li>
+    <li>Id</li>
+    <li>Group</li>
+</ol>
+<li>The DOM</li>
+<li>Advanced Selectors</li>
+<li>Box Model</li>
+
+</ol>
+    
+    <li>Programming</li>
+    <ol type="A">
+<li>Python</li>
+<li>JavaScript</li>
+
+    </ol>
+<li>Database</li>
+<ol type="i">
+<li>Flat File</li>
+<li>Reletional</li>
+
+
+</ol>
+       </ol>   
+</body>
+</html>
+5.
+</b> </p>
+<fieldset>
+    <legend>Qeydiyyat formu</legend>
+<form action="Qeydiyyat Formu" method="" enctype="multipart/form-data">
+<label for="Ad"> 
+Ad:
+<input type="text" name="Ad" id="Ad" required="">
+</label> <br> <br>
+<label for="Soyad">
+Soyad:
+<input type="text" name="Soyad" id="Soyad">
+</label>
+<label for="Ətraflı"> <br><br>
+Ətraflı:
+<input type="text" >
+</label>
+<label for="Email"> <br><br>
+Email:
+<input type="email" >
+</label>
+<label for="Şifrə"> <br><br>
+Şifrə:
+<input type="password" name="Şifrə">
+</label>
+<label> <br><br>
+Doğum tarixi:
+<input type="date" name="bday" required pattern="\d{4}-\d{2}-\d{2}" />
+<span class="validity"></span>
+</label>
+<label for="Cins"> <br><br>
+Cins:
+<input type="radio" name="cinsiyyet">
+Kişi
+</label>
+<label>
+<input type="radio" name="cinsiyyet">
+Qadın
+</label>
+<label for="Hobbi"><br><br>
+Hobbi:
+<input type="checkbox"futbol>futbol
+<input type="checkbox"film>film
+<input type="checkbox"kitab>kitab
+<input type="checkbox"musiqi>musiqi
+</label>
+<label for="Şəhər"> <br><br>
+Şəhər:
+<input list="Şəhər">
+
+<datalist id="Şəhər">
+
+</label> 
+<label for="favcolor"> <br><br>
+Rəng:
+<input type="color" id="favcolor" name="favcolor" value="#ff0000">
+</label>                                                                                                                                                                                     
+
+<label for="vol"> <br><br>
+Range:
+<input type="range" id="vol" name="vol" min="0" max="50">
+</label>
+ 
+ <label> <br> <br>
+    <input type="file" name="fayl" accept="image/*">
+  </label>
+  <label for="Ay"> <br><br>
+    Ay:
+  <input type="month" id="start" name="start"
+  </label>
+  <label for="Telefon"> <br><br>
+    Telefon:
+    <input type="text" name="telefon" >
+    <label for="Tarix və vaxt"> <br><br>
+        Tarix və vaxt:
+        <input type="date">
+    </label>
+    <label for="appt"> <br><br>
+        Saat:
+    <input type="time" id="appt" name="appt">
+    </label>
+    <label for="Həftə"> <br><br>
+        Həftə:
+<input type="week" id="week" name="week">
+</label>
+<label for="url"> <br> <br>
+ URL:
+<input type="url" name="url" id="url"
+</label>
+<label> <br><br>
+    <input type="submit" name="gönder" value="Göndər">
+</label>
+<label>
+    <input type="reset" name="reset" value="Sıfırla">
+</label>
+
+</datalist>
+
+</label>
+
+</form> </fieldset>
+</body>
+</head>
+</html>
+
